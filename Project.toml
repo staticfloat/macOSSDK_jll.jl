@@ -1,6 +1,6 @@
 name = "macOSSDK_jll"
 uuid = "52f8e75f-aed1-5264-b4c9-b8da5a6d5365"
-version = "11.1.0"
+version = "11.1.1"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
