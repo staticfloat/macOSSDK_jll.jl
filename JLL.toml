@@ -20,14 +20,14 @@ src_version = "11.1.0"
     treehash = "sha1:34aa173255ab2f3773ac859b0e419b64a1cbca18"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:a9b048f6a58e043bbd62bc8e71cb09d940aadeb18142b19e914e38b2dab6d4f4"
+        tarball_hash = "sha256:56c7caa78c89c87712b843cbfdb570fe44334fdcd6a429ed1f07d547bc6f711d"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-build_log-v11.1.1-x86_64-apple-darwin.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
     treehash = "sha1:873e88ee5e779f3db46224eb04709176f8f1606c"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:cd47056a2781a82c7d919ff1b62fccb954f72a100471a2bc1413e9fa627c9b14"
+        tarball_hash = "sha256:ee8fbd5d36ad3cbf4ae7f6cd3edc57f0ef3a81483ad6643045b84e2dae2e1113"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-extract_log-v11.1.1-x86_64-apple-darwin.tar.gz"
 
     [[builds.products]]
@@ -46,7 +46,7 @@ src_version = "11.1.0"
     treehash = "sha1:77e16878e963b51f8661d064c1024422b1a6eeea"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:e8a7c9965056298a43ce0dc1410c2436f5ff1427d03303809eeeae87057d0efd"
+        tarball_hash = "sha256:2234c40da9920472448f850cd9f278609fa6e88311b966030ea3c00876e7c2d3"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-v11.1.1-x86_64-apple-darwin.tar.gz"
 [[builds]]
 name = "macOSSDK"
@@ -65,14 +65,14 @@ src_version = "11.1.0"
     treehash = "sha1:956de4d1cbfdc3def2920dd326fcc4b192acfd96"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:9f91f0f529b6b16f11acc830e0d8002c1d8bf145a5c4fed8a2af102d1741ce38"
+        tarball_hash = "sha256:0b34fe8e97bcf94d0b0f238454f3f125cf3388c2a302ee93fbe92030de7ee2c1"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-build_log-v11.1.1-aarch64-apple-darwin.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
     treehash = "sha1:5819a4002ebda584ad1170dd6785bc915d584970"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:3a03ee5eb485b6abb519e63ed0c813cab8ae69ab127be179c32b02031676aa32"
+        tarball_hash = "sha256:f4abcbdbb1ca59d7a9c1218e2ba8291b16b18f9f3e633d464637410f46b276dd"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-extract_log-v11.1.1-aarch64-apple-darwin.tar.gz"
 
     [[builds.products]]
@@ -91,5 +91,5 @@ src_version = "11.1.0"
     treehash = "sha1:77e16878e963b51f8661d064c1024422b1a6eeea"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:e8a7c9965056298a43ce0dc1410c2436f5ff1427d03303809eeeae87057d0efd"
+        tarball_hash = "sha256:2234c40da9920472448f850cd9f278609fa6e88311b966030ea3c00876e7c2d3"
         url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-v11.1.1-aarch64-apple-darwin.tar.gz"

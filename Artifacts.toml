@@ -4,7 +4,7 @@ git-tree-sha1 = "77e16878e963b51f8661d064c1024422b1a6eeea"
 os = "macos"
 
     [[macOSSDK.download]]
-    sha256 = "e8a7c9965056298a43ce0dc1410c2436f5ff1427d03303809eeeae87057d0efd"
+    sha256 = "2234c40da9920472448f850cd9f278609fa6e88311b966030ea3c00876e7c2d3"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-v11.1.1-x86_64-apple-darwin.tar.gz"
 [[macOSSDK]]
 arch = "aarch64"
@@ -12,7 +12,7 @@ git-tree-sha1 = "77e16878e963b51f8661d064c1024422b1a6eeea"
 os = "macos"
 
     [[macOSSDK.download]]
-    sha256 = "e8a7c9965056298a43ce0dc1410c2436f5ff1427d03303809eeeae87057d0efd"
+    sha256 = "2234c40da9920472448f850cd9f278609fa6e88311b966030ea3c00876e7c2d3"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-v11.1.1-aarch64-apple-darwin.tar.gz"
 
 [[macOSSDK-build_log]]
@@ -22,7 +22,7 @@ lazy = true
 os = "macos"
 
     [[macOSSDK-build_log.download]]
-    sha256 = "a9b048f6a58e043bbd62bc8e71cb09d940aadeb18142b19e914e38b2dab6d4f4"
+    sha256 = "56c7caa78c89c87712b843cbfdb570fe44334fdcd6a429ed1f07d547bc6f711d"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-build_log-v11.1.1-x86_64-apple-darwin.tar.gz"
 [[macOSSDK-build_log]]
 arch = "aarch64"
@@ -31,7 +31,7 @@ lazy = true
 os = "macos"
 
     [[macOSSDK-build_log.download]]
-    sha256 = "9f91f0f529b6b16f11acc830e0d8002c1d8bf145a5c4fed8a2af102d1741ce38"
+    sha256 = "0b34fe8e97bcf94d0b0f238454f3f125cf3388c2a302ee93fbe92030de7ee2c1"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-build_log-v11.1.1-aarch64-apple-darwin.tar.gz"
 
 [[macOSSDK-extract_log]]
@@ -41,7 +41,7 @@ lazy = true
 os = "macos"
 
     [[macOSSDK-extract_log.download]]
-    sha256 = "cd47056a2781a82c7d919ff1b62fccb954f72a100471a2bc1413e9fa627c9b14"
+    sha256 = "ee8fbd5d36ad3cbf4ae7f6cd3edc57f0ef3a81483ad6643045b84e2dae2e1113"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-extract_log-v11.1.1-x86_64-apple-darwin.tar.gz"
 [[macOSSDK-extract_log]]
 arch = "aarch64"
@@ -50,5 +50,5 @@ lazy = true
 os = "macos"
 
     [[macOSSDK-extract_log.download]]
-    sha256 = "3a03ee5eb485b6abb519e63ed0c813cab8ae69ab127be179c32b02031676aa32"
+    sha256 = "f4abcbdbb1ca59d7a9c1218e2ba8291b16b18f9f3e633d464637410f46b276dd"
     url = "https://github.com/staticfloat/macOSSDK_jll.jl/releases/download/v11.1.1/macOSSDK-extract_log-v11.1.1-aarch64-apple-darwin.tar.gz"
