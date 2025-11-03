@@ -13,8 +13,8 @@ The binaries for `macOSSDK` have been built from upstream sources version v11.1.
 
 `macOSSDK` is available for the following platforms:
 
- - `Platform("x86_64", "macos"; )`
- - `Platform("aarch64", "macos"; )`
+ - `Platform("x86_64", "macos"; os_version = "20.0.0")`
+ - `Platform("aarch64", "macos"; os_version = "20.0.0")`
 # Dependencies
 The following JLL packages are required by `macOSSDK`:
 
